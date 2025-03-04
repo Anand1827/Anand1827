@@ -2,11 +2,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h1 align="center">Hi 👋, I'm Anand Busharaju</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand1827&label=Profile%20views&color=0e75b6&style=flat" alt="anand1827" /> </p>
 
-- 💬 Ask me about **Python**
+- 🌱 I’m currently learning **DevOps With AWS**
+
+- 💬 Ask me about **Python for Data Science and Machine Learning**
 
 - 📫 How to reach me **bhusharajuanand2002@gmail.com**
 
@@ -23,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand1827&show_icons=true&locale=en" alt="anand1827" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand1827&" alt="anand1827" /></p>
-
-
